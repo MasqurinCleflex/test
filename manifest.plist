@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/MasqurinCleflex/test/aaa.ipa</string>
+					<string>https://github.com/MasqurinCleflex/test/raw/refs/heads/main/WebViewDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/MasqurinCleflex/test/display.png</string>
+					<string>https://raw.githubusercontent.com/MasqurinCleflex/test/refs/heads/main/display.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/MasqurinCleflex/test/full.png</string>
+					<string>https://github.com/MasqurinCleflex/test/blob/main/full.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
